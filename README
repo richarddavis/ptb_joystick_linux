@@ -1,0 +1,6 @@
+The mex files can be compiled in octave using 'mex joy_linux_mex.c'.
+
+The two functions which can be called from octave are joy_linux_open and joy_linux_read.
+
+joy_linux_read is non-blocking only at the moment.
+
